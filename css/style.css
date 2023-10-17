@@ -11,3 +11,8 @@ header{
 .img{
     width: 20%;
 }
+.info{
+    min-height: 9vh;
+    background-color: rgb(47, 51, 92);
+    color: white;
+}
