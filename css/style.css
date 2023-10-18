@@ -5,7 +5,7 @@ header{
 }
 .jumbo{
     background-color: rgb(111, 162, 35);
-    min-height: 40vh;
+    min-height: 20rem;
     color: white;
 }
 .img{
